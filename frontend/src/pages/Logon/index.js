@@ -30,6 +30,8 @@ export default function Logon() {
         <div className="logon-container">
             <section className="form">                
                 <img src={logoImg} alt="Be the Hero" />
+
+                
                 <form onSubmit={handleLogin}>
                     <h1>Inform your logon</h1>
 
@@ -42,11 +44,9 @@ export default function Logon() {
                     </Link>
                 </form>
             
+
             </section>
-
             <img src={heroesImg} alt="Heroes"/>
-        </div>
-
-        
+        </div>        
     );
 }

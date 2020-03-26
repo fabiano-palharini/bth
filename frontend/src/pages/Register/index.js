@@ -54,10 +54,7 @@ export default function Register() {
                     </div>
                     <button className="button" type="submit">Register</button>
                 </form>
-
             </div>
-
         </div>
     );
 }
-
