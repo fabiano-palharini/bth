@@ -9,12 +9,12 @@ There, you will find a list cases along with the description and the amount of m
 This application consists of two apps basically. 
     - The NGO web application which maintains the cases.
     - The mobile application where the users can make their donations.
-
-![Login](login.png)
-![ONG Register](register_ong.png)
-![Case Register](register_case.png)
-![Case List](cases_list.png)
-
+<p align="center">
+    ![Login](login.png)
+    ![ONG Register](register_ong.png)
+    ![Case Register](register_case.png)
+    ![Case List](cases_list.png)
+</p>
 
 ### More details
 For more details please refer to each folder project.
