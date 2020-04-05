@@ -10,7 +10,7 @@ This application consists of two apps basically.
     - The NGO web application which maintains the cases.
     - The mobile application where the users can make their donations.
 <p align="center">
-    ![Login](login.png)
+    <img src="./login.png">    
 </p>
 <p align="center">
     ![ONG Register](register_ong.png)
