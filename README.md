@@ -9,11 +9,18 @@ There, you will find a list cases along with the description and the amount of m
 This application consists of two apps basically. 
     - The NGO web application which maintains the cases.
     - The mobile application where the users can make their donations.
+    
 <p align="center">
     <img src="./login.png">    
 </p>
 <p align="center">    
     <img src="./register_ong.png">  
+</p>
+<p align="center">    
+    <img src="./register_case.png">  
+</p>
+<p align="center">    
+    <img src="./cases_list.png">  
 </p>
 
 
