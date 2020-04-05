@@ -15,12 +15,7 @@ This application consists of two apps basically.
 <p align="center">    
     <img src="./register_ong.png">  
 </p>
-<p align="center">    
-    <img src="./register_case.png">  
-</p>
-<p align="center">    
-    <img src="./cases_list.png">  
-</p>
+
 
 ### More details
 For more details please refer to each folder project.
