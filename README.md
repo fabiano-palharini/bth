@@ -17,10 +17,10 @@ This application consists of two apps basically.
     <img src="./register_ong.png">  
 </p>
 <p align="center">    
-    <img src="./register_case.png">  
+    <img src="./case.png">  
 </p>
 <p align="center">    
-    <img src="./cases_list.png">  
+    <img src="./list.png">  
 </p>
 
 
