@@ -12,14 +12,14 @@ This application consists of two apps basically.
 <p align="center">
     <img src="./login.png">    
 </p>
-<p align="center">
-    ![ONG Register](register_ong.png)
+<p align="center">    
+    <img src="./register_ong.png">  
 </p>
-<p align="center">
-    ![Case Register](register_case.png)
+<p align="center">    
+    <img src="./register_case.png">  
 </p>
-<p align="center">
-    ![Case List](cases_list.png)
+<p align="center">    
+    <img src="./cases_list.png">  
 </p>
 
 ### More details
