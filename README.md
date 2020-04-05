@@ -11,8 +11,14 @@ This application consists of two apps basically.
     - The mobile application where the users can make their donations.
 <p align="center">
     ![Login](login.png)
+</p>
+<p align="center">
     ![ONG Register](register_ong.png)
+</p>
+<p align="center">
     ![Case Register](register_case.png)
+</p>
+<p align="center">
     ![Case List](cases_list.png)
 </p>
 
